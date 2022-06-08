@@ -1,0 +1,9 @@
+
+*.xml
+*.prefs
+*.launch
+Debug/*
+Drivers/*
+*.ld
+
+*.s
