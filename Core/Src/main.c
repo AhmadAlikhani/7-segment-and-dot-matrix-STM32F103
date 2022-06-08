@@ -100,6 +100,7 @@ HAL_GPIO_WritePin(GPIOB, 0x2, GPIO_PIN_RESET);
 	  counter ++;
 	  if(counter > 9)
 		  counter = 0;
+
   }
   /* USER CODE END 3 */
 }
